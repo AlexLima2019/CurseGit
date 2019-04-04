@@ -10,6 +10,7 @@ namespace Curse
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bom dia!");
         }
     }
 }
