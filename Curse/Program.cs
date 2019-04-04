@@ -10,9 +10,11 @@ namespace Curse
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("---------------------------------------");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Boa tarde!");
             Console.WriteLine("Boa noite!");
+            Console.WriteLine("---------------------------------------");
         }
     }
 }
